@@ -1,2 +1,2 @@
 # aboutMaps
-customizing maps
+customizing naver-maps
